@@ -10,7 +10,7 @@ function Home() {
         initial={{ opacity: 0, y: -50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
-        className="text-5xl md:text-6xl font-extrabold text-yellow-400 mb-6"
+        className="text-5xl md:text-6xl font-extrabold text-center text-yellow-400 mb-6"
       >
         Welcome to Movie Review
       </motion.h1>
