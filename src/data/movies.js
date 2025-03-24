@@ -8,13 +8,29 @@ const movies = [
     "The Godfather",
     "Parasite",
     "Lucky Baskhar",
-    "Tillu Square ",
+    "Tillu Square",
     "Hanu-Man",
     "Forrest Gump",
     "Joker",
+    "Avengers",
     "F3: Fun and Frustration",
-    "Karthikeya 2"
-  ];
-  
-  export default movies;
-  
+    "Karthikeya 2",
+    "RRR",
+    "Salaar",
+    "Baahubali: The Beginning",
+    "Baahubali 2: The Conclusion",
+    "Oppenheimer",
+    "Interstellar",
+    "Inception",
+    "Spider-Man: No Way Home",
+    "Doctor Strange in the Multiverse of Madness",
+    "Vikram",
+    "KGF: Chapter 1",
+    "KGF: Chapter 2",
+    "Leo",
+    "Jawan",
+    "Animal",
+    "Thunivu"
+];
+
+export default movies;
